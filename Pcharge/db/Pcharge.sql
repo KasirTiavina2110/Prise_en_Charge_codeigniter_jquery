@@ -409,7 +409,7 @@ Insert into Facture values(Default,'10/15/013','2015-12-16','2015-07-16','147180
 Insert into Facture values(Default,'10/15/009','2015-12-16','2015-07-16','14718789 N011021','Rabekoto Tefihaja',300000,'PAYE',214,'CHEQUE',null);
 
 
-
+//GG
 
 
 create table events(
